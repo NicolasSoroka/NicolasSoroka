@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there👋 I'm Nicolas Soroka, Frontend Web Developer
 
-<!--
-**NicolasSoroka/NicolasSoroka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programming Technician specialized in frontend using JavaScript and several frameworks/technologies such as React or Next.js.
 
-Here are some ideas to get you started:
+Where to find me?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linkedin 🔗 : https://www.linkedin.com/in/nsrka ;
+
+E-Mail 📧: sorokanicolas@gmail.com ;
+
+Technologies that I use the most:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,next,typescript)](https://skillicons.dev)
