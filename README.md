@@ -10,4 +10,4 @@ E-Mail 📧: sorokanicolas@gmail.com ;
 
 Technologies that I use the most:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,next,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,next,typescript,redux,sass)](https://skillicons.dev)
