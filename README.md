@@ -1,4 +1,6 @@
-Hi there👋 I'm Nicolas Soroka, Fullstack Web Developer
+#### Hi there👋 
+
+I'm Nicolas Soroka, Fullstack Web Developer
 
 Programming Technician specialized in frontend using JavaScript and several frameworks/technologies such as React or Next.js.
 
