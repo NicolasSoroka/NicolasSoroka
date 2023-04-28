@@ -1,4 +1,4 @@
-## Hi there👋 
+## Hi there👋  
 
 I'm Nicolas Soroka, Fullstack Web Developer
 
