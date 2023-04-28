@@ -6,7 +6,7 @@ Programming Technician specialized in frontend using JavaScript and several fram
    
 Where to find me? 
 
-Linkedin 🔗 : https://www.linkedin.com/in/nsrka ;
+Linkedin 🔗 : https://www.linkedin.com/in/nsrka ; 
 
 E-Mail 📧: sorokanicolas@gmail.com ;
 
