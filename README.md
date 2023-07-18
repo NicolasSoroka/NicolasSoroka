@@ -4,7 +4,7 @@ I'm Nicolas Soroka, Fullstack Web Developer from Argentina
  
 Programming Technician specialized in frontend using JavaScript and several frameworks/technologies such as React and Next.js.
     
-Where to find me? 
+Where to find me:
 
 Linkedin 🔗 : https://www.linkedin.com/in/nsrka ; 
 
