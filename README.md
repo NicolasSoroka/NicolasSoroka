@@ -8,6 +8,6 @@ Linkedin 🔗 : https://www.linkedin.com/in/nsrka ;
 
 E-Mail 📧: sorokanicolas@gmail.com ;
   
-Technologies that I use the most: 
+Technologies that I use the most:  
  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,next,typescript,redux,sass)](https://skillicons.dev)
