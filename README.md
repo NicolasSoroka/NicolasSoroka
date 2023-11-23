@@ -12,4 +12,4 @@ I've got a programming degree from UTN University and have been diving deep into
   
 # Technologies that I use the most:  
  
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,react,next,jest,redux,tailwind,nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,react,next,jest,redux,tailwind,sass,nodejs,express,mongodb)](https://skillicons.dev)
