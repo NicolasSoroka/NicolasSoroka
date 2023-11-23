@@ -1,6 +1,6 @@
 ## Hi there👋  
 
-I'm Nicolas Soroka,  Frontend Engineer based from Buenos Aires.
+I'm Nicolas Soroka,  Frontend Engineer from Buenos Aires.
   
 I hold a degree in programming from UTN university and have extensive experience in the industry, having worked on a variety of products.
 
