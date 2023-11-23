@@ -4,13 +4,12 @@ I'm Nicolas Soroka,  Frontend Engineer from Buenos Aires.
 
 ## About me
   
-I hold a degree in programming from UTN university and have extensive experience in the industry, having worked on a variety of products.
-
-I'm committed to continually improving my skills and knowledge by attending workshops, industry meetings, and learning the latest technologies in software development.
+I earned my programming degree from UTN University and have cultivated extensive industry experience across a diverse range of projects. 
+My commitment to growth is evident through my active participation in workshops, industry gatherings, and a constant pursuit of the latest technologies, all geared towards elevating my skills in software development
     
-🔗 Linkedin: https://www.linkedin.com/in/nsrka ; 
+🔗 Linkedin: https://www.linkedin.com/in/nsrka
 
-📧 Email: sorokanicolas@gmail.com ;
+📧 Email: sorokanicolas@gmail.com
   
 # Technologies that I use the most:  
  
