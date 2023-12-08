@@ -1,6 +1,6 @@
 ## Hi there👋  
 
-I'm Nicolas Soroka,  Fullstack Engineer from Buenos Aires
+I'm Nicolas,  Fullstack Engineer from Buenos Aires
 
 ## About me
   
