@@ -1,6 +1,6 @@
 ## Hi there👋  
 
-I'm Nicolas,  Fullstack Engineer from Buenos Aires
+I'm Nicolas,  Fullstack Engineer from Argentina
  
 ## About me
   
