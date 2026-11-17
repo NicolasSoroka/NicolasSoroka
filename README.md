@@ -1,7 +1,3 @@
-## Hi there 👋  
+Used to program like a caveman, now I command claude like a caveman.
 
-I'm Nicolas,  Fullstack Engineer from Argentina now living in Spain
- 
-I've got a programming degree from UTN University and have been diving deep into the industry, working on all sorts of cool projects. I'm big on leveling up my skills, you'll often find me at workshops and meetups soaking up the latest in tech to keep my software development game strong.
-
-Playing with Three.js and WebGPU right now. Of course, I know about AI
+Now expanding in design, UX and creative development
